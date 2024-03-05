@@ -22,6 +22,7 @@ Developed by: ALAN ZION H
 RegisterNumber:  212223240004
 */
 ```
+```
 import numpy as np 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -60,6 +61,7 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
+```
 
 ## Output:
 ## data.head()
