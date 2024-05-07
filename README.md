@@ -68,7 +68,8 @@ print(f"Predicted value: {pre}")
 ## data.head()
 ![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/bb638b3a-106d-4028-9a8e-69435db692cf)
 
-![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/afa80037-7ed8-42aa-bc44-d4e6dbc3fbc2)
+![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/6894ced5-3378-4322-a865-07faa9681ead)
+
 
 
 ![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/0bda911a-03ca-412e-88c5-cd904c4fd2d6)
