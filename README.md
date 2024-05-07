@@ -71,7 +71,7 @@ print(f"Predicted value: {pre}")
 ![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/afa80037-7ed8-42aa-bc44-d4e6dbc3fbc2)
 
 
-![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/9160bb6a-0609-47cc-a382-3d820efd195e)
+![image](https://github.com/ALANZION/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145743064/0bda911a-03ca-412e-88c5-cd904c4fd2d6)
 
 
 
